@@ -1,0 +1,48 @@
+.container {
+  padding-top: 250px;
+  padding-left: 600px;
+}
+
+.g {
+  color: #3498db;
+}
+
+.O {
+  color: #e74c3c;
+}
+
+.o {
+  color: #f1c40f;
+}
+
+.l {
+  color: #1e8449;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+.btn {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #000;
+  cursor: pointer;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px,
+    5px 5px 0px 0px;
+  position: relative;
+}
+
+.btn:hover {
+  background-color: #3498db;
+}
+
+input {
+  height: 30px;
+  border-radius: 8px;
+  border-color: #3498db;
+}
